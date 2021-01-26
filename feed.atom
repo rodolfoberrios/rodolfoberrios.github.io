@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://rodolfo.is/</id>
+    <title>Rodolfo Berrios</title>
+    <updated>2021-01-26T18:24:13.940Z</updated>
+    <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+    <link rel="alternate" href="https://rodolfo.is/"/>
+    <link rel="self" href="https://rodolfo.is/feed.atom"/>
+    <subtitle>Rodolfo, meando afuera del tiesto desde 2012.</subtitle>
+    <entry>
+        <title type="html"><![CDATA[Santiago, Chile]]></title>
+        <id>https://rodolfo.is/2012/10/27/santiago-chile/</id>
+        <link href="https://rodolfo.is/2012/10/27/santiago-chile/">
+        </link>
+        <updated>2012-10-27T03:08:49.000Z</updated>
+        <summary type="html"><![CDATA[Una foto de cuando vivíamos en Club Y Pico con Domeyko.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A system to stop being nulled]]></title>
+        <id>https://rodolfo.is/2012/12/03/a-system-to-stop-being-nulled/</id>
+        <link href="https://rodolfo.is/2012/12/03/a-system-to-stop-being-nulled/">
+        </link>
+        <updated>2012-12-03T18:22:00.000Z</updated>
+        <summary type="html"><![CDATA[A method to stop being "nulled" by simply making it impossible to do it.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Junkstr Pitch]]></title>
+        <id>https://rodolfo.is/2013/04/06/junkstr-pitch/</id>
+        <link href="https://rodolfo.is/2013/04/06/junkstr-pitch/">
+        </link>
+        <updated>2013-04-06T22:45:32.000Z</updated>
+        <summary type="html"><![CDATA[The making of video for Start-Up Chile.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto cumple 6 años]]></title>
+        <id>https://rodolfo.is/2013/07/08/chevereto-cumple-6-anos/</id>
+        <link href="https://rodolfo.is/2013/07/08/chevereto-cumple-6-anos/">
+        </link>
+        <updated>2013-07-08T21:46:00.000Z</updated>
+        <summary type="html"><![CDATA[Feliz 6to cumpleaños al Chevereto Software de alojamiento de imágenes.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The G\ library]]></title>
+        <id>https://rodolfo.is/2013/09/02/the-g-library/</id>
+        <link href="https://rodolfo.is/2013/09/02/the-g-library/">
+        </link>
+        <updated>2013-09-02T22:36:00.000Z</updated>
+        <summary type="html"><![CDATA[Never liked the available frameworks, so I'm making a new one.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hola Junkstr]]></title>
+        <id>https://rodolfo.is/2013/11/23/hola-junkstr/</id>
+        <link href="https://rodolfo.is/2013/11/23/hola-junkstr/">
+        </link>
+        <updated>2013-11-23T07:29:00.000Z</updated>
+        <summary type="html"><![CDATA[El lanzamiento más piola y fome de la historia, contado desde primera fila.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vendiendo 700 lucas en cachureos]]></title>
+        <id>https://rodolfo.is/2013/12/07/vendiendo-700-lucas-en-cachureos/</id>
+        <link href="https://rodolfo.is/2013/12/07/vendiendo-700-lucas-en-cachureos/">
+        </link>
+        <updated>2013-12-07T02:10:00.000Z</updated>
+        <summary type="html"><![CDATA[Quiero vender CLP $700.000 en cachureos con Junkstr.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Introducing G\ Library]]></title>
+        <id>https://rodolfo.is/2014/03/14/introducing-g-library/</id>
+        <link href="https://rodolfo.is/2014/03/14/introducing-g-library/">
+        </link>
+        <updated>2014-03-14T22:47:00.000Z</updated>
+        <summary type="html"><![CDATA[Taking back the fun to PHP.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Chevereto 3]]></title>
+        <id>https://rodolfo.is/2014/04/18/chevereto-3/</id>
+        <link href="https://rodolfo.is/2014/04/18/chevereto-3/">
+        </link>
+        <updated>2014-04-18T01:58:00.000Z</updated>
+        <summary type="html"><![CDATA[Introducing the all-new Chevereto V3.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[A word on Quickty, Chevereto and Chevere.me]]></title>
+        <id>https://rodolfo.is/2015/02/11/a-word-on-quickty-chevereto-and-chevereme/</id>
+        <link href="https://rodolfo.is/2015/02/11/a-word-on-quickty-chevereto-and-chevereme/">
+        </link>
+        <updated>2015-02-11T00:23:00.000Z</updated>
+        <summary type="html"><![CDATA[People always ask me if I know a Chevereto for files.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Client-side based file storage encryption]]></title>
+        <id>https://rodolfo.is/2015/03/21/client-side-based-file-storage-encryption/</id>
+        <link href="https://rodolfo.is/2015/03/21/client-side-based-file-storage-encryption/">
+        </link>
+        <updated>2015-03-21T23:23:51.000Z</updated>
+        <summary type="html"><![CDATA[Encryption in a storage service is a must have because it provides a better layer of privacy.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickty is already under development!]]></title>
+        <id>https://rodolfo.is/2015/06/07/quickty-is-already-under-development/</id>
+        <link href="https://rodolfo.is/2015/06/07/quickty-is-already-under-development/">
+        </link>
+        <updated>2015-06-07T22:44:40.000Z</updated>
+        <summary type="html"><![CDATA[The Chevereto for files is becoming a thing.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickty dev update #1]]></title>
+        <id>https://rodolfo.is/2015/08/05/quickty-dev-update-1/</id>
+        <link href="https://rodolfo.is/2015/08/05/quickty-dev-update-1/">
+        </link>
+        <updated>2015-08-05T17:27:49.000Z</updated>
+        <summary type="html"><![CDATA[A first recap on working side-by-side between Quickty and Chevereto.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickty dev update #2]]></title>
+        <id>https://rodolfo.is/2015/09/03/quickty-dev-update-2/</id>
+        <link href="https://rodolfo.is/2015/09/03/quickty-dev-update-2/">
+        </link>
+        <updated>2015-09-03T19:43:50.000Z</updated>
+        <summary type="html"><![CDATA[A second recap on working side-by-side between Quickty and Chevereto.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickty dev update #3]]></title>
+        <id>https://rodolfo.is/2016/05/14/quickty-dev-update-3/</id>
+        <link href="https://rodolfo.is/2016/05/14/quickty-dev-update-3/">
+        </link>
+        <updated>2016-05-14T05:24:19.000Z</updated>
+        <summary type="html"><![CDATA[A third recap on working side-by-side between Quickty and Chevereto.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickty dev update #4]]></title>
+        <id>https://rodolfo.is/2016/09/07/quickty-dev-update-4/</id>
+        <link href="https://rodolfo.is/2016/09/07/quickty-dev-update-4/">
+        </link>
+        <updated>2016-09-07T18:27:03.000Z</updated>
+        <summary type="html"><![CDATA[A fourth recap on working side-by-side between Quickty and Chevereto.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Quickty Promo]]></title>
+        <id>https://rodolfo.is/2017/01/11/quickty-promo/</id>
+        <link href="https://rodolfo.is/2017/01/11/quickty-promo/">
+        </link>
+        <updated>2017-01-11T16:12:39.000Z</updated>
+        <summary type="html"><![CDATA[We're goin' for those pleasures in the night.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Sorry, Quickty won't happen]]></title>
+        <id>https://rodolfo.is/2017/08/08/sorry-quickty-wont-happen/</id>
+        <link href="https://rodolfo.is/2017/08/08/sorry-quickty-wont-happen/">
+        </link>
+        <updated>2017-08-08T16:43:02.000Z</updated>
+        <summary type="html"><![CDATA[I've decided to completely drop Quickty development and focus back on Chevereto.]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Vuelvo a bloguear]]></title>
+        <id>https://rodolfo.is/2020/07/09/vuelvo-a-bloguear/</id>
+        <link href="https://rodolfo.is/2020/07/09/vuelvo-a-bloguear/">
+        </link>
+        <updated>2020-07-09T11:32:02.000Z</updated>
+        <summary type="html"><![CDATA[Vuelvo a renacer, amado pueblo... Se siente tan vacío sin mi!]]></summary>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Thoughts on monetize Chevereto installations]]></title>
+        <id>https://rodolfo.is/2021/01/20/thoughts-on-monetize-chevereto-installations/</id>
+        <link href="https://rodolfo.is/2021/01/20/thoughts-on-monetize-chevereto-installations/">
+        </link>
+        <updated>2021-01-20T20:48:42.000Z</updated>
+        <summary type="html"><![CDATA[Pushing towards a saner service provisioning]]></summary>
+    </entry>
+</feed>
